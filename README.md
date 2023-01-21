@@ -17,7 +17,7 @@
 - @Adok 原创小说 ```#谨慎引用#``` ```#拒绝商用#```
 
 ---
-### :dart:  <a href="https://github.com/OSIOMs/Twelve_Novels" target="_blank">#1 魔术巨献（GoTo 阅读）</a>
+### :dart:  <a href="https://github.com/OSIOMs/Twelve_Novels/blob/TNovels/%231%20魔术巨献/%231%20魔术巨献（图片预览）.png" target="_blank">#1 魔术巨献（GoTo 阅读）</a>
 ##### :two_hearts: <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=0Ctc0wnQ7E2o3MlafK7TR3m7AxQyoHVFp2Z3tGvl4_xUMDUwQTk2UFNMUjNQU0o5SFo0MjQ2ODAzTC4u" target="_blank">GoTo 反馈一下 ... </a>
 
 ```为了所爱愿意付出一切，人与人之间的感情很简单，互相尊重和关怀便是一份情谊。```
