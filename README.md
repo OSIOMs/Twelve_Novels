@@ -82,7 +82,7 @@
 
 ```以纯真的情怀回忆8090年代的乡村生活其朴实和无华的快乐，人类来自自然而应该热爱自然。```
 
-##### :art: <a href="https://github.com/OSIOMs/Twelve_Novels/blob/TNovels/%2312%2B2%20适者亦逝者%2312%2B2%20适者亦逝者（图片内容预览）.png" target="_blank">#12+2 适者亦逝者（GoTo 阅读）</a>
+##### :art: <a href="https://github.com/OSIOMs/Twelve_Novels/blob/TNovels/%2312%2B2%20适者亦逝者/%2312%2B2%20适者亦逝者（图片内容预览）.png" target="_blank">#12+2 适者亦逝者（GoTo 阅读）</a>
 ##### :two_hearts: <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=0Ctc0wnQ7E2o3MlafK7TR3m7AxQyoHVFp2Z3tGvl4_xUMDUwQTk2UFNMUjNQU0o5SFo0MjQ2ODAzTC4u" target="_blank">GoTo 反馈一下 ... </a>
 
 ```适应了环境，更好地生活下去，适应了现状，并为此感到满足，那你也被预测了你的归途。```
