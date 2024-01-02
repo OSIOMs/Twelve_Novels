@@ -1,8 +1,8 @@
 <div>
   <h1 align="center"> :boom: Twelve_Novels :boom: </h1>
-  <div align="center">
+  <div align="center">    
     <a href="https://github.com/OSIOMs/Twelve_Novels" target="_self">
-      <img src="https://img.shields.io/badge/Twelve-Starsun-brightgreen?style=flat&logo=Canonical" /></a> 
+      <img src="https://img.shields.io/badge/Twelve-Starsun-brightgreen?logo=Kubuntu&logoColor=f5f5f5" /></a> 
     <a href="https://github.com/OSIOMs/Twelve_Novels" target="_self">
       <img src="https://img.shields.io/badge/Novel-Original-blue?style=flat&logo=Coursera" /></a> 
     <a href="https://github.com/OSIOMs/Twelve_Novels" target="_self">
